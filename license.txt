@@ -1,0 +1,11 @@
+Model Information:
+* title:	Coach
+* source:	https://sketchfab.com/3d-models/coach-8a8f4bbfaa68446a820eff845bb26443
+* author:	leen.talalini (https://sketchfab.com/leen.talalini)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Coach" (https://sketchfab.com/3d-models/coach-8a8f4bbfaa68446a820eff845bb26443) by leen.talalini (https://sketchfab.com/leen.talalini) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
